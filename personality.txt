@@ -1,0 +1,84 @@
+<HTML><HEAD><TITLE>FIRST HTML</TITLE></HEAD>
+<BODY bgcolor= #FFFFE0
+<font color= #000000 size=20>
+<h1>Have a lovely daughter</h1>
+<h2>Have a lovely daughter</h2>
+<h3>Have a lovely daughter</h3>
+<h4>Have a lovely daughter</h4>
+<h5>Have a lovely daughter</h5>
+<hr color= size=10 width=400></hr></font><B><I><U> first page about me</font></B></I></U>
+<front color=BLACK #808080 size=20>about me</front>
+<br><br><br><br><font color=#800080 size=20>
+H<sub>2</sub>
+X<sup>2</sub>
+</BODY>
+
+</HTML>
+
+<HTML><HEAD><TITLE>FIRST HTML</TITLE></HEAD>
+<BODY bgcolor= #FFFFFF
+<font color= #000000 size=20>
+<h1>Short tempered</h1>
+<h2>Short tempered</h2>
+<h3>Short tempered</h3>
+<h4>Short tempered</h4>
+<h5>Short tempered</h5>
+<hr color= size=10 width=400></hr></font><B><I><U>second page about me</font></B></I></U>
+<front color=BLACK #808080 size=20>about me</front>
+<br><br><br><br><font color=#800080 size=20>
+H<sub>2</sub>
+X<sup>2</sub>
+</BODY>
+
+</HTML>
+
+<HTML><HEAD><TITLE>FIRST HTML</TITLE></HEAD>
+<BODY bgcolor= #00FFFF
+<font color= #000000 size=20>
+<h1>Irretated person</h1>
+<h2>Irretated person</h2>
+<h3>Irretated person</h3>
+<h4>Irretated person</h4>
+<h5>Irretated person</h5>
+<hr color= size=10 width=400></hr></font><B><I><U>about me</font></B></I></U>
+<front color=BLACK #808080 size=20>about me</front>
+<br><br><br><br><font color=#800080 size=20>
+H<sub>2</sub>
+X<sup>2</sub>
+</BODY>
+
+</HTML>
+
+<HTML><HEAD><TITLE>FIRST HTML</TITLE></HEAD>
+<BODY bgcolor= #00FFFF
+<font color= #000000 size=20>
+<h1>Friendly person</h1>
+<h2>Friendly person</h2>
+<h3>Friendly person</h3>
+<h4>Friendly person</h4>
+<h5>Friendly person</h5>
+<hr color= size=10 width=400></hr></font><B><I><U>about me</font></B></I></U>
+<front color=BLACK #808080 size=20>about me</front>
+<br><br><br><br><font color=#800080 size=20>
+H<sub>2</sub>
+X<sup>2</sub>
+</BODY>
+
+</HTML>
+
+<HTML><HEAD><TITLE>FIRST HTML</TITLE></HEAD>
+<BODY bgcolor= #
+<font color= #000000 size=20>
+<h1>Morena girl</h1>
+<h2>Morena girl</h2>
+<h3>Morena girl</h3>
+<h4>Morena girl</h4>
+<h5>Morena girl</h5>
+<hr color= size=10 width=400></hr></font><B><I><U>about me</font></B></I></U>
+<front color=BLACK #808080 size=20>about me</front>
+<br><br><br><br><font color=#800080 size=20>
+H<sub>2</sub>
+X<sup>2</sub>
+</BODY>
+
+</HTML>
